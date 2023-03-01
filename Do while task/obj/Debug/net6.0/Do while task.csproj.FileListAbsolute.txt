@@ -1,0 +1,15 @@
+C:\Users\Revan\Desktop\Do while task\Do while task\bin\Debug\net6.0\Do while task.exe
+C:\Users\Revan\Desktop\Do while task\Do while task\bin\Debug\net6.0\Do while task.deps.json
+C:\Users\Revan\Desktop\Do while task\Do while task\bin\Debug\net6.0\Do while task.runtimeconfig.json
+C:\Users\Revan\Desktop\Do while task\Do while task\bin\Debug\net6.0\Do while task.dll
+C:\Users\Revan\Desktop\Do while task\Do while task\bin\Debug\net6.0\Do while task.pdb
+C:\Users\Revan\Desktop\Do while task\Do while task\obj\Debug\net6.0\Do while task.csproj.AssemblyReference.cache
+C:\Users\Revan\Desktop\Do while task\Do while task\obj\Debug\net6.0\Do while task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Revan\Desktop\Do while task\Do while task\obj\Debug\net6.0\Do while task.AssemblyInfoInputs.cache
+C:\Users\Revan\Desktop\Do while task\Do while task\obj\Debug\net6.0\Do while task.AssemblyInfo.cs
+C:\Users\Revan\Desktop\Do while task\Do while task\obj\Debug\net6.0\Do while task.csproj.CoreCompileInputs.cache
+C:\Users\Revan\Desktop\Do while task\Do while task\obj\Debug\net6.0\Do while task.dll
+C:\Users\Revan\Desktop\Do while task\Do while task\obj\Debug\net6.0\refint\Do while task.dll
+C:\Users\Revan\Desktop\Do while task\Do while task\obj\Debug\net6.0\Do while task.pdb
+C:\Users\Revan\Desktop\Do while task\Do while task\obj\Debug\net6.0\Do while task.genruntimeconfig.cache
+C:\Users\Revan\Desktop\Do while task\Do while task\obj\Debug\net6.0\ref\Do while task.dll
