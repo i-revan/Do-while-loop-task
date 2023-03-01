@@ -11,7 +11,7 @@
                 Console.Write("Enter a number: ");
                 number = Convert.ToInt32(Console.ReadLine());
 
-                if (!(number > 10 && number < 20))
+                if (!(number >= 10 && number <= 20))
                 {
                     Console.WriteLine("Something went wrong.Do you want to continue?");
                     string answer = Console.ReadLine();
@@ -34,7 +34,7 @@
                     }
                 }
                 break;
-            } while (!(number > 10 && number < 20));
+            } while (!(number >= 10 && number <= 20));
         }
     }
 }
